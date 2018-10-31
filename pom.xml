@@ -5,7 +5,7 @@
     <artifactId>words</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>java-project</name>
+    <name>words</name>
     <url>http://maven.apache.org</url>
 
     <dependencies>
